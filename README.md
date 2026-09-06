@@ -119,6 +119,23 @@ O repositório continuará sendo atualizado conforme novos tópicos forem estuda
 
 ---
 
+## 📚 Referências principais
+
+Este projeto está sendo construído com apoio de livros clássicos de Matemática, utilizados como base teórica e fonte de exercícios.
+
+### Álgebra Linear
+- Alfredo Steinbruch — Álgebra Linear
+- Steven J. Leon — Álgebra Linear com Aplicações
+- Howard Anton — Álgebra Linear com Aplicações
+
+### Cálculo
+- James Stewart — Cálculo
+- George B. Thomas — Cálculo
+
+Outras referências poderão ser acrescentadas conforme o projeto evoluir.
+
+---
+
 ## 🚧 Status
 
 **Em desenvolvimento ativo.**
